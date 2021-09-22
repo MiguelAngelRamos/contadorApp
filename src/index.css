@@ -1,0 +1,16 @@
+html, body {
+  color: white;
+  background-color: #33353b;
+  font-size: 1.3rem;
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+button {
+  font-size: 1.3rem;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.navbar {
+  background-color: #3e4250 !important;
+}
